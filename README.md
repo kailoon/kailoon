@@ -9,7 +9,7 @@
 - 📫 Reach out to me: chankailoon@gmail.com
 - 🤝  I'm open to collaborating on NextJs & SvelteKit or UI Design projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailoon&theme=transparent&show_icons=true)
+![kailoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailoon&theme=vue&show_icons=true)
 
 <a href="https://www.buymeacoffee.com/kailoon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <!---
