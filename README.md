@@ -2,12 +2,12 @@
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/kailoon)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kailoon/)
 
-- BR Feel free to checkout my [portfolio website](https://kailoon.com/)!
-- 🏢 Frontend Developer & UI/UX Designer in Malaysia.
-- 🧰 I build with: `JavaScript`, `Next.js`, `Svelte`, `TailwindCSS` ...
-- ⚡ I enjoy photography, playing basketball, and coffee
+Feel free to checkout my [portfolio website](https://kailoon.com/)!
+
+- 🏢 Frontend Developer & Digital Product Designer.
+- 🧰 I build with: `ReactJS`, `Next.js`, `Astro`, `TailwindCSS`
 - 📫 Reach out to me: chankailoon@gmail.com
-- 🤝  I'm open to collaborating on NextJs & SvelteKit or UI Design projects.
+- 🤝 Open for collaboration.
 
 ![kailoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailoon&theme=vue&show_icons=true)
 
